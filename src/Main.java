@@ -30,7 +30,7 @@ public class Main {
             System.out.print(number);
         }
         System.out.println(" ");
-//задание 3
+//задание 3d
         //peopleYear = рождаемость - смертность = 9 (С 1000чел)
         // за год с 12000000 (9 * 12000)
         int PeopleYear = 0;
