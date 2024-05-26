@@ -36,7 +36,7 @@ public class Main {
         for (number = finalfigure; number >= 1; number--) {
             System.out.print(number);
         }
-        System.out.println(" ");
+        System.out.println(" ");//
 
 
 
